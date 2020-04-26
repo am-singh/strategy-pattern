@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a15ef4e-99ce-452e-9373-4cbbf1d122e5" name="Default Changelist" comment="" />
+    <list default="true" id="7a15ef4e-99ce-452e-9373-4cbbf1d122e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1b5eBSU6Bho4XL22PLAcjU4X6xL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,26 +83,34 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="530" y="160" key="#com.intellij.ide.util.MemberChooser/0.23.1440.819@0.23.1440.819" timestamp="1587926820135" />
+    <state x="522" y="365" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587927994232">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="522" y="365" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.819@0.23.1440.819" timestamp="1587927994232" />
     <state x="490" y="303" width="454" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587927608314">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="490" y="303" width="454" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.819@0.23.1440.819" timestamp="1587927608314" />
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom" timestamp="1587927925800">
+    <state x="493" y="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587927995340">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1587927925800" />
-    <state width="1398" height="189" key="GridCell.Tab.0.center" timestamp="1587927925799">
+    <state x="493" y="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.819@0.23.1440.819" timestamp="1587927995340" />
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom" timestamp="1587928003548">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1587927925799" />
-    <state width="1398" height="189" key="GridCell.Tab.0.left" timestamp="1587927925798">
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1587928003548" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center" timestamp="1587928003547">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1587927925798" />
-    <state width="1398" height="189" key="GridCell.Tab.0.right" timestamp="1587927925800">
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1587928003547" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left" timestamp="1587928003546">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1587927925800" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1587928003546" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right" timestamp="1587928003548">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1587928003548" />
     <state x="218" y="76" key="SettingsEditor" timestamp="1587926867793">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
